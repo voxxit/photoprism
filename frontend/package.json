@@ -71,7 +71,7 @@
     "karma-mocha": "^2.0.1",
     "karma-verbose-reporter": "^0.0.8",
     "karma-webpack": "^5.0.0",
-    "luxon": "^2.4.0",
+    "luxon": "^2.5.2",
     "maplibre-gl": "^2.1.9",
     "memoize-one": "^6.0.0",
     "mini-css-extract-plugin": "^2.6.1",
